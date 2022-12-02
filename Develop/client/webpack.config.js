@@ -52,7 +52,7 @@ module.exports = () => {
     ],
 
     module: {
-      //CSS loader
+      //CSS
       rules: [
         {
           test: /\.css$/i,
